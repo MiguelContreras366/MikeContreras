@@ -1,6 +1,6 @@
 # Hi, I'm Mike (Miguel) 🛠️💻
 
-**Veteran Tanker (3/66 AR) | IT Systems Veteran | Retired Automotive Mechanic**
+**Veteran Tanker (3/66 AR) | Bench Technician & IT Veteran | Retired Automotive Mechanic**
 
 ![Army](https://img.shields.io/badge/US_ARMY-VETERAN-green?style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -12,32 +12,26 @@
 ---
 
 ### 🛡️ About Me
-I spent the early 2000s navigating the intersection of heavy armor and tactical UNIX systems (MCS/FBCB2). My post-Army career took me through hardware engineering at **Acer** and networking at **Cisco**, before I pivoted into the automotive world.
+My journey started in the Army, navigating tactical UNIX systems (MCS/FBCB2) from the seat of a tank. After the service, I transitioned into the IT world, working my way up from a call center to a **Depot Bench Technician at Acer**. I spent years at the workbench, performing component-level diagnostics and hardware repairs before moving into networking at **Cisco**.
 
-Today, I am 100% focused on keeping my mind sharp through **"Digital Wrenching."** I treat my OpenMediaVault (OMV) server like a project car—constantly tuning, automating, and troubleshooting to keep everything running at peak performance.
+Eventually, I traded the precision of computer hardware for the torque of automotive engines. Today, I’m 100% focused on **"Digital Wrenching"**—keeping my mind sharp by applying decades of troubleshooting experience to my self-hosted home lab and Python automation projects.
 
 ---
 
 ### 🔧 Tech Stack & Skills
 
-* **The UNIX Roots:** Veteran of Maneuver Control Systems; proficient in CLI-based systems management since before 2003.
-* **Infrastructure:** Managing a self-hosted OMV environment, Docker containers, and home networking.
-* **Automation:** Writing Python scripts to handle media organization, system health, and real-time notifications.
-* **Troubleshooting:** Decades of experience diagnosing everything from network packet loss to 5.7L HEMI engine codes.
+* **Hardware & Systems:** Former Depot Bench Tech; expert in hardware diagnostics, component replacement, and system recovery.
+* **The UNIX Roots:** Managing CLI-based systems since the early 2000s; currently maintaining a Debian-based OMV environment.
+* **Automation:** Developing Python tools for server health, media organization, and real-time ntfy notifications.
+* **Logic & Diagnostics:** A lifetime of "seeing under the hood"—whether it's a network packet, a Python traceback, or an engine code.
 
 ---
 
 ### 🚀 Recent Builds
-* **[uncle-mikes-tools](https://github.com/MiguelContreras366/uncle-mikes-tools):** My primary toolbox. Featuring `check_duck.py`, a diagnostic tool that monitors Public IP sync and sends push notifications to my phone via `ntfy`.
-* **Astra Militarum Inventory:** A Python-based database for tracking my Warhammer 40k build and paint progress.
-* **Media Automation:** Custom logic for maintaining a clean and efficient Plex library on OMV.
+* **[uncle-mikes-tools](https://github.com/MiguelContreras366/uncle-mikes-tools):** My primary toolbox. Featuring `check_duck.py`, which monitors my Mumble server's connectivity and pings my phone via `ntfy`.
+* **Media Automation:** Custom scripts to keep my Plex library organized and healthy.
+* **Scale Model Inventory:** A Python-based tracker for my Warhammer 40k and Gunpla builds.
 
 ---
 
-### 🧩 Beyond the Screen
-When I'm not in the terminal, you'll find me:
-* Painting **Warhammer 40,000** and **Gunpla** kits.
-* Keeping my **2007 Dodge Ram** and **2012 Dodge Avenger** in top shape.
-* Following the **Dodgers**, **Rams**, and **Firebirds**.
-
-*"The tools change, but the logic remains the same: Identify the fault, find the fix, and keep learning."*
+*"From UNIX terminals to automotive bays, the mission is always the same: Diagnose the fault, find the tool, and fix the system."*
