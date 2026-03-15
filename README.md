@@ -12,7 +12,7 @@
 ---
 
 ### 🛡️ About Me
-My journey started in the Army, navigating tactical UNIX systems (MCS/FBCB2) from the seat of a tank. After the service, I transitioned into the IT world, working my way up from a call center to a **Depot Bench Technician at Acer**. I spent years at the workbench, performing component-level diagnostics and hardware repairs before moving into networking at **Cisco**.
+My journey started in the Army, navigating tactical UNIX systems (MCS/FBCB2). After the service, I transitioned into the IT world, working my way up from a call center to a **Depot Bench Technician at Acer**. I spent years at the workbench, performing component-level diagnostics and hardware repairs before moving into networking at **Cisco**.
 
 Eventually, I traded the precision of computer hardware for the torque of automotive engines. Today, I’m 100% focused on **"Digital Wrenching"**—keeping my mind sharp by applying decades of troubleshooting experience to my self-hosted home lab and Python automation projects.
 
@@ -34,4 +34,4 @@ Eventually, I traded the precision of computer hardware for the torque of automo
 
 ---
 
-*"From UNIX terminals to automotive bays, the mission is always the same: Diagnose the fault, find the tool, and fix the system."*
+*"From UNIX terminals to automotive bays, the mission is always the same: Diagnose the fault, find the tool, and fix the system."* - Tupac, 2026
